@@ -1,6 +1,5 @@
 package org.lesson.java.array;
 
-import java.util.Arrays;
 
 public class CibiPrefeiriti {
 	public static void main(String[] args) {
