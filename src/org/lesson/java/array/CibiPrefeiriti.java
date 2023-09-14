@@ -10,9 +10,9 @@ public class CibiPrefeiriti {
 	System.out.println("--------------------------------------------");
 	System.out.println("il mio preferito e' la " + food[0]);
 	System.out.println("--------------------------------------------");
-	System.out.println("quello che gradisco di meno e' la " + food[6]);
+	System.out.println("quello che gradisco di meno e' la " + food[food.length - 1]);
 	System.out.println("--------------------------------------------");
-	System.out.println("il cibo di mezzo  e' la " + food[3]);
+	System.out.println("il cibo di mezzo  e' la " + food[food.length / 2]);
 	
 	
 	
